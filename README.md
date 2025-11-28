@@ -70,7 +70,7 @@ It enables organizations to track year-over-year growth, monitor profitability, 
 ![Super Store Sales Dashboard](https://github.com/ABH1516/SuperStore_Sales_Dashboard/blob/main/super_store_sales_dashboard_1.png)
 
 >
-![Super Store Forecast Dashboard](https://github.com/ABH1516/Super-Store-Sales-Dashboard/blob/main/super_store_sales_dashboard_2.png)
+![Super Store Forecast Dashboard](https://github.com/ABH1516/SuperStore_Sales_Dashboard/blob/main/super_store_sales_dashboard_2.png)
 
 ---
 
